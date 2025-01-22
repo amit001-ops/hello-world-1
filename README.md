@@ -1,2 +1,2 @@
-# hello-world-1
-This repository is for practicing the GitHub Flow
+# SQL CODE
+SQL codes for understanding SQL 
